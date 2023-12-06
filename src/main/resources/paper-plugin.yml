@@ -1,0 +1,4 @@
+name: DropHead
+version: '${project.version}'
+main: me.fadegor05.drophead.DropHead
+api-version: '1.20'
